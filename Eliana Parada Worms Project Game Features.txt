@@ -1,0 +1,9 @@
+﻿Game Features:
+* G Features
+* Main Menu + Pause Menu (VG, small)
+* Health Pickups (VG, Medium)
+   * Spawn in at random location within range
+   * If random spawn location collides with another object, it despawns
+
+
+I am aiming for a VG.
